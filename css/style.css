@@ -309,6 +309,7 @@ p {
 .button.primary:focus {
   background-color: #188ce8;
 }
+
 .backdrop {
   position: fixed;
   top: 0;
